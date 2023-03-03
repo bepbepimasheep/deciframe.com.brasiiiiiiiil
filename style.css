@@ -1,0 +1,80 @@
+#fundo{
+    color: aliceblue;
+    background-color: black;
+}
+
+.baixo {
+    padding:20px;
+    color: #6c757d;
+    bottom: 0;
+    position: fixed;
+    width:80%;
+}
+
+
+
+#btn1{
+    background-color: rgb(126, 2, 2);
+    color: aliceblue;
+    padding: 5px;
+    border-radius:10px;
+    border-color: blue;
+}
+
+#btn2{
+    background-color: rgb(126, 2, 2);
+    color: aliceblue;
+    padding: 5px;
+    border-radius:10px;
+    border-color: blue;
+}
+
+#resposta{
+    width: 70%;
+    height: 35px;
+    border-radius: 5px;
+}
+
+.page-header{
+    font-family: 'Lacquer', cursive;
+    font-size: 80px;
+    color: darkcyan;
+}
+
+.nop{
+    font-family: 'Lacquer', cursive;
+    font-size: 80px;
+    color: darkred;
+}
+
+h4{
+    color: red;
+}
+
+body{
+	background-image: url("concrete-road.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    margin-top: 30px;
+	border-width:10px;
+	background-color: white; 
+	border-style:ridge;
+}
+
+h5{
+    color: rgb(77, 201, 77);
+}
+h6{
+    color: rgb(238, 255, 0);
+}
+
+#btn3{
+    background-color: rgb(255, 255, 255);
+    color: rgb(255, 0, 0);
+    padding: 5px;
+    border-radius:10px;
+    border-color: rgb(255, 230, 0);
+}
